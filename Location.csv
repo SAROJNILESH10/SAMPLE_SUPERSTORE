@@ -1,0 +1,633 @@
+Country,City,State,Postal Code
+United States,Henderson,Kentucky,42420
+United States,Los Angeles,California,90036
+United States,Fort Lauderdale,Florida,33311
+United States,Los Angeles,California,90032
+United States,Concord,North Carolina,28027
+United States,Seattle,Washington,98103
+United States,Fort Worth,Texas,76106
+United States,Madison,Wisconsin,53711
+United States,West Jordan,Utah,84084
+United States,San Francisco,California,94109
+United States,Fremont,Nebraska,68025
+United States,Philadelphia,Pennsylvania,19140
+United States,Orem,Utah,84057
+United States,Los Angeles,California,90049
+United States,Houston,Texas,77095
+United States,Richardson,Texas,75080
+United States,Houston,Texas,77041
+United States,Naperville,Illinois,60540
+United States,Melbourne,Florida,32935
+United States,Eagan,Minnesota,55122
+United States,Westland,Michigan,48185
+United States,Dover,Delaware,19901
+United States,New Albany,Indiana,47150
+United States,New York City,New York,10024
+United States,Troy,New York,12180
+United States,Los Angeles,California,90004
+United States,Chicago,Illinois,60610
+United States,Gilbert,Arizona,85234
+United States,Springfield,Virginia,22153
+United States,New York City,New York,10009
+United States,Jackson,Michigan,49201
+United States,Memphis,Tennessee,38109
+United States,Houston,Texas,77070
+United States,Decatur,Alabama,35601
+United States,San Francisco,California,94122
+United States,Durham,North Carolina,27707
+United States,Chicago,Illinois,60623
+United States,Columbia,South Carolina,29203
+United States,Rochester,Minnesota,55901
+United States,Minneapolis,Minnesota,55407
+United States,Portland,Oregon,97206
+United States,Saint Paul,Minnesota,55106
+United States,Aurora,Colorado,80013
+United States,Charlotte,North Carolina,28205
+United States,Orland Park,Illinois,60462
+United States,New York City,New York,10035
+United States,Urbandale,Iowa,50322
+United States,Columbus,Ohio,43229
+United States,Bristol,Tennessee,37620
+United States,Wilmington,Delaware,19805
+United States,Bloomington,Illinois,61701
+United States,Phoenix,Arizona,85023
+United States,Roseville,California,95661
+United States,Independence,Missouri,64055
+United States,Pasadena,California,91104
+United States,Newark,Ohio,43055
+United States,Franklin,Wisconsin,53132
+United States,Scottsdale,Arizona,85254
+United States,San Jose,California,95123
+United States,Seattle,Washington,98105
+United States,Seattle,Washington,98115
+United States,Edmond,Oklahoma,73034
+United States,Los Angeles,California,90045
+United States,Philadelphia,Pennsylvania,19134
+United States,Carlsbad,New Mexico,88220
+United States,San Antonio,Texas,78207
+United States,Houston,Texas,77036
+United States,Decatur,Illinois,62521
+United States,Monroe,Louisiana,71203
+United States,Fairfield,Connecticut,6824
+United States,Grand Prairie,Texas,75051
+United States,Redlands,California,92374
+United States,Hamilton,Ohio,45011
+United States,Westfield,New Jersey,7090
+United States,Philadelphia,Pennsylvania,19120
+United States,Akron,Ohio,44312
+United States,Denver,Colorado,80219
+United States,Dallas,Texas,75220
+United States,Franklin,Tennessee,37064
+United States,Whittier,California,90604
+United States,Saginaw,Michigan,48601
+United States,Medina,Ohio,44256
+United States,Dublin,Ohio,43017
+United States,Detroit,Michigan,48227
+United States,Columbia,Tennessee,38401
+United States,Tampa,Florida,33614
+United States,Santa Clara,California,95051
+United States,Lakeville,Minnesota,55044
+United States,San Diego,California,92037
+United States,Pasadena,Texas,77506
+United States,Brentwood,California,94513
+United States,Chapel Hill,North Carolina,27514
+United States,Morristown,New Jersey,7960
+United States,Cincinnati,Ohio,45231
+United States,San Francisco,California,94110
+United States,Inglewood,California,90301
+United States,Tamarac,Florida,33319
+United States,Colorado Springs,Colorado,80906
+United States,Belleville,New Jersey,7109
+United States,Taylor,Michigan,48180
+United States,Lakewood,New Jersey,8701
+United States,Arlington,Virginia,22204
+United States,Arvada,Colorado,80004
+United States,Hackensack,New Jersey,7601
+United States,Saint Petersburg,Florida,33710
+United States,Philadelphia,Pennsylvania,19143
+United States,Long Beach,California,90805
+United States,Hesperia,California,92345
+United States,Murfreesboro,Tennessee,37130
+United States,Layton,Utah,84041
+United States,Austin,Texas,78745
+United States,Lowell,Massachusetts,1852
+United States,Columbus,Georgia,31907
+United States,Manchester,Connecticut,6040
+United States,Harlingen,Texas,78550
+United States,Tucson,Arizona,85705
+United States,Quincy,Illinois,62301
+United States,Franklin,Massachusetts,2038
+United States,Pembroke Pines,Florida,33024
+United States,Des Moines,Washington,98198
+United States,Peoria,Illinois,61604
+United States,Las Vegas,Nevada,89115
+United States,Warwick,Rhode Island,2886
+United States,Miami,Florida,33180
+United States,Wilmington,North Carolina,28403
+United States,Huntington Beach,California,92646
+United States,Richmond,Kentucky,40475
+United States,Louisville,Colorado,80027
+United States,Lawrence,Massachusetts,1841
+United States,Jackson,Mississippi,39212
+United States,Canton,Michigan,48187
+United States,New Rochelle,New York,10801
+United States,Gastonia,North Carolina,28052
+United States,Jacksonville,Florida,32216
+United States,Columbus,Indiana,47201
+United States,Auburn,New York,13021
+United States,Norman,Oklahoma,73071
+United States,Concord,California,94521
+United States,Park Ridge,Illinois,60068
+United States,Amarillo,Texas,79109
+United States,Lindenhurst,New York,11757
+United States,Los Angeles,California,90008
+United States,San Diego,California,92024
+United States,Huntsville,Texas,77340
+United States,Rochester,New York,14609
+United States,Fayetteville,Arkansas,72701
+United States,Costa Mesa,California,92627
+United States,Parker,Colorado,80134
+United States,Atlanta,Georgia,30318
+United States,Gladstone,Missouri,64118
+United States,Great Falls,Montana,59405
+United States,Detroit,Michigan,48234
+United States,Lakeland,Florida,33801
+United States,Montgomery,Alabama,36116
+United States,Mesa,Arizona,85204
+United States,Chicago,Illinois,60653
+United States,Green Bay,Wisconsin,54302
+United States,Springfield,Ohio,45503
+United States,Anaheim,California,92804
+United States,Marysville,Washington,98270
+United States,Salem,Oregon,97301
+United States,Laredo,Texas,78041
+United States,Dallas,Texas,75217
+United States,Grove City,Ohio,43123
+United States,New York City,New York,10011
+United States,Dearborn,Michigan,48126
+United States,Warner Robins,Georgia,31088
+United States,Vallejo,California,94591
+United States,Mission Viejo,California,92691
+United States,Rochester Hills,Michigan,48307
+United States,Plainfield,New Jersey,7060
+United States,Sierra Vista,Arizona,85635
+United States,Vancouver,Washington,98661
+United States,Aurora,Illinois,60505
+United States,Arlington,Texas,76017
+United States,Louisville,Kentucky,40214
+United States,Dallas,Texas,75081
+United States,Cleveland,Ohio,44105
+United States,Tyler,Texas,75701
+United States,Burlington,North Carolina,27217
+United States,Waynesboro,Virginia,22980
+United States,Chester,Pennsylvania,19013
+United States,Cary,North Carolina,27511
+United States,Palm Coast,Florida,32137
+United States,Mount Vernon,New York,10550
+United States,Detroit,Michigan,48205
+United States,Hialeah,Florida,33012
+United States,Oceanside,New York,11572
+United States,San Diego,California,92105
+United States,Evanston,Illinois,60201
+United States,Trenton,Michigan,48183
+United States,Cottage Grove,Minnesota,55016
+United States,Bossier City,Louisiana,71111
+United States,Des Moines,Iowa,50315
+United States,Lancaster,California,93534
+United States,Richmond,Virginia,23223
+United States,Asheville,North Carolina,28806
+United States,Lake Elsinore,California,92530
+United States,Omaha,Nebraska,68104
+United States,Edmonds,Washington,98026
+United States,Santa Ana,California,92704
+United States,Milwaukee,Wisconsin,53209
+United States,Florence,Kentucky,41042
+United States,Lorain,Ohio,44052
+United States,Linden,New Jersey,7036
+United States,Salinas,California,93905
+United States,New Brunswick,New Jersey,8901
+United States,Lancaster,Pennsylvania,17602
+United States,Concord,New Hampshire,3301
+United States,Columbia,Maryland,21044
+United States,Garland,Texas,75043
+United States,Norwich,Connecticut,6360
+United States,Alexandria,Virginia,22304
+United States,Toledo,Ohio,43615
+United States,Farmington,New Mexico,87401
+United States,Riverside,California,92503
+United States,Torrance,California,90503
+United States,Round Rock,Texas,78664
+United States,Oceanside,California,92054
+United States,Boca Raton,Florida,33433
+United States,Virginia Beach,Virginia,23464
+United States,Murrieta,California,92563
+United States,Jacksonville,North Carolina,28540
+United States,Burlington,Iowa,52601
+United States,Olympia,Washington,98502
+United States,Washington,District of Columbia,20016
+United States,Jefferson City,Missouri,65109
+United States,Saint Peters,Missouri,63376
+United States,Rockford,Illinois,61107
+United States,Miami,Florida,33142
+United States,Brownsville,Texas,78521
+United States,Yonkers,New York,10701
+United States,Oakland,California,94601
+United States,Monroe,North Carolina,28110
+United States,Clinton,Maryland,20735
+United States,Encinitas,California,92024
+United States,Roswell,Georgia,30076
+United States,Jonesboro,Arkansas,72401
+United States,Richmond,Indiana,47374
+United States,Antioch,California,94509
+United States,Homestead,Florida,33030
+United States,La Porte,Indiana,46350
+United States,Lansing,Michigan,48911
+United States,Cuyahoga Falls,Ohio,44221
+United States,Reno,Nevada,89502
+United States,Harrisonburg,Virginia,22801
+United States,Escondido,California,92025
+United States,Royal Oak,Michigan,48073
+United States,Rockville,Maryland,20852
+United States,Coral Springs,Florida,33065
+United States,Buffalo,New York,14215
+United States,Boynton Beach,Florida,33437
+United States,Gulfport,Mississippi,39503
+United States,Fresno,California,93727
+United States,Greenville,North Carolina,27834
+United States,Long Beach,New York,11561
+United States,Florence,Alabama,35630
+United States,Macon,Georgia,31204
+United States,Cedar Rapids,Iowa,52402
+United States,Providence,Rhode Island,2908
+United States,Pueblo,Colorado,81001
+United States,Fairfield,California,94533
+United States,Deltona,Florida,32725
+United States,Murray,Kentucky,42071
+United States,Middletown,Connecticut,6457
+United States,Freeport,New York,11520
+United States,Pico Rivera,California,90660
+United States,Provo,Utah,84604
+United States,Pleasant Grove,Utah,84062
+United States,Smyrna,Georgia,30080
+United States,Salem,Virginia,24153
+United States,Parma,Ohio,44134
+United States,Mobile,Alabama,36608
+United States,New Bedford,Massachusetts,2740
+United States,Irving,Texas,75061
+United States,Vineland,New Jersey,8360
+United States,Glendale,Arizona,85301
+United States,Niagara Falls,New York,14304
+United States,Thomasville,North Carolina,27360
+United States,Westminster,California,92683
+United States,Jackson,Tennessee,38301
+United States,Coppell,Texas,75019
+United States,Pomona,California,91767
+United States,North Las Vegas,Nevada,89031
+United States,Allentown,Pennsylvania,18103
+United States,Newark,Delaware,19711
+United States,Tempe,Arizona,85281
+United States,Laguna Niguel,California,92677
+United States,Bridgeton,New Jersey,8302
+United States,Everett,Massachusetts,2149
+United States,Watertown,New York,13601
+United States,Appleton,Wisconsin,54915
+United States,Bellevue,Washington,98006
+United States,Allen,Texas,75002
+United States,El Paso,Texas,79907
+United States,Grapevine,Texas,76051
+United States,Carrollton,Texas,75007
+United States,Smyrna,Tennessee,37167
+United States,Kent,Washington,98031
+United States,Lafayette,Louisiana,70506
+United States,Tigard,Oregon,97224
+United States,Skokie,Illinois,60076
+United States,Plano,Texas,75023
+United States,Suffolk,Virginia,23434
+United States,Indianapolis,Indiana,46203
+United States,Bayonne,New Jersey,7002
+United States,Fayetteville,North Carolina,28314
+United States,Greensboro,North Carolina,27405
+United States,Baltimore,Maryland,21215
+United States,Kenosha,Wisconsin,53142
+United States,Olathe,Kansas,66062
+United States,Auburn,Washington,98002
+United States,Tulsa,Oklahoma,74133
+United States,Redmond,Oregon,97756
+United States,Raleigh,North Carolina,27604
+United States,Muskogee,Oklahoma,74403
+United States,Meriden,Connecticut,6450
+United States,Bowling Green,Kentucky,42104
+United States,South Bend,Indiana,46614
+United States,Bristol,Connecticut,6010
+United States,Henderson,Nevada,89015
+United States,Spokane,Washington,99207
+United States,Keller,Texas,76248
+United States,Fairfield,Ohio,45014
+United States,Port Orange,Florida,32127
+United States,Medford,Oregon,97504
+United States,Charlottesville,Virginia,22901
+United States,Missoula,Montana,59801
+United States,Miami,Florida,33178
+United States,Florence,South Carolina,29501
+United States,Springfield,Oregon,97477
+United States,Apopka,Florida,32712
+United States,Reading,Pennsylvania,19601
+United States,Broomfield,Colorado,80020
+United States,Springfield,Missouri,65807
+United States,Paterson,New Jersey,7501
+United States,Oklahoma City,Oklahoma,73120
+United States,Chesapeake,Virginia,23320
+United States,Lubbock,Texas,79424
+United States,Columbia,Missouri,65203
+United States,Johnson City,Tennessee,37604
+United States,Auburn,Alabama,36830
+United States,San Bernardino,California,92404
+United States,Leominster,Massachusetts,1453
+United States,Bozeman,Montana,59715
+United States,Peoria,Arizona,85345
+United States,Lakewood,Ohio,44107
+United States,Perth Amboy,New Jersey,8861
+United States,Ontario,California,91761
+United States,Rancho Cucamonga,California,91730
+United States,Moorhead,Minnesota,56560
+United States,Mesquite,Texas,75150
+United States,Stockton,California,95207
+United States,Ormond Beach,Florida,32174
+United States,Sunnyvale,California,94086
+United States,Dover,New Hampshire,3820
+United States,York,Pennsylvania,17403
+United States,College Station,Texas,77840
+United States,Saint Louis,Missouri,63116
+United States,Quincy,Massachusetts,2169
+United States,Manteca,California,95336
+United States,Kent,Ohio,44240
+United States,San Angelo,Texas,76903
+United States,Salt Lake City,Utah,84106
+United States,Huntsville,Alabama,35810
+United States,Knoxville,Tennessee,37918
+United States,Little Rock,Arkansas,72209
+United States,Lincoln Park,Michigan,48146
+United States,Marion,Ohio,43302
+United States,Littleton,Colorado,80122
+United States,Burlington,Vermont,05408
+United States,Bangor,Maine,4401
+United States,Southaven,Mississippi,38671
+United States,New Castle,Indiana,47362
+United States,Midland,Michigan,48640
+United States,Sioux Falls,South Dakota,57103
+United States,Fort Collins,Colorado,80525
+United States,Lafayette,Indiana,47905
+United States,Clarksville,Tennessee,37042
+United States,Sacramento,California,95823
+United States,Thousand Oaks,California,91360
+United States,Malden,Massachusetts,2148
+United States,Holyoke,Massachusetts,1040
+United States,Albuquerque,New Mexico,87105
+United States,Sparks,Nevada,89431
+United States,Coachella,California,92236
+United States,Elmhurst,Illinois,60126
+United States,Passaic,New Jersey,7055
+United States,North Charleston,South Carolina,29406
+United States,Newport News,Virginia,23602
+United States,Jamestown,New York,14701
+United States,Mishawaka,Indiana,46544
+United States,Bowling Green,Ohio,43402
+United States,La Quinta,California,92253
+United States,Tallahassee,Florida,32303
+United States,Nashville,Tennessee,37211
+United States,Bellingham,Washington,98226
+United States,Woodstock,Illinois,60098
+United States,Haltom City,Texas,76117
+United States,Wheeling,Illinois,60090
+United States,Summerville,South Carolina,29483
+United States,Hot Springs,Arkansas,71901
+United States,Englewood,Colorado,80112
+United States,Lancaster,Ohio,43130
+United States,Las Cruces,New Mexico,88001
+United States,Hoover,Alabama,35244
+United States,Frisco,Texas,75034
+United States,Vacaville,California,95687
+United States,Murray,Utah,84107
+United States,Waukesha,Wisconsin,53186
+United States,Bakersfield,California,93309
+United States,Pompano Beach,Florida,33068
+United States,Troy,Ohio,45373
+United States,Corpus Christi,Texas,78415
+United States,Redondo Beach,California,90278
+United States,Orlando,Florida,32839
+United States,Orange,New Jersey,7050
+United States,Lake Charles,Louisiana,70601
+United States,Highland Park,Illinois,60035
+United States,Hempstead,New York,11550
+United States,Noblesville,Indiana,46060
+United States,Apple Valley,Minnesota,55124
+United States,Mount Pleasant,South Carolina,29464
+United States,Sterling Heights,Michigan,48310
+United States,Eau Claire,Wisconsin,54703
+United States,Pharr,Texas,78577
+United States,Billings,Montana,59102
+United States,Gresham,Oregon,97030
+United States,Chattanooga,Tennessee,37421
+United States,Meridian,Idaho,83642
+United States,Apple Valley,California,92307
+United States,Bolingbrook,Illinois,60440
+United States,Maple Grove,Minnesota,55369
+United States,Woodland,California,95695
+United States,Missouri City,Texas,77489
+United States,Pearland,Texas,77581
+United States,San Mateo,California,94403
+United States,Grand Rapids,Michigan,49505
+United States,Visalia,California,93277
+United States,Overland Park,Kansas,66212
+United States,Temecula,California,92592
+United States,Yucaipa,California,92399
+United States,Revere,Massachusetts,2151
+United States,Conroe,Texas,77301
+United States,Tinley Park,Illinois,60477
+United States,Dubuque,Iowa,52001
+United States,Dearborn Heights,Michigan,48127
+United States,Santa Fe,New Mexico,87505
+United States,Hickory,North Carolina,28601
+United States,Carol Stream,Illinois,60188
+United States,Saint Cloud,Minnesota,56301
+United States,North Miami,Florida,33161
+United States,Lawrence,Indiana,46226
+United States,Plantation,Florida,33317
+United States,Port Saint Lucie,Florida,34952
+United States,Rock Hill,South Carolina,29730
+United States,Odessa,Texas,79762
+United States,West Allis,Wisconsin,53214
+United States,Chula Vista,California,91911
+United States,Manhattan,Kansas,66502
+United States,Altoona,Pennsylvania,16602
+United States,Thornton,Colorado,80229
+United States,Champaign,Illinois,61821
+United States,Bloomington,Indiana,47401
+United States,Texarkana,Arkansas,71854
+United States,Edinburg,Texas,78539
+United States,Baytown,Texas,77520
+United States,Greenwood,Indiana,46142
+United States,Lakewood,California,90712
+United States,Woonsocket,Rhode Island,2895
+United States,Superior,Wisconsin,54880
+United States,Bedford,Texas,76021
+United States,Covington,Washington,98042
+United States,Broken Arrow,Oklahoma,74012
+United States,Miramar,Florida,33023
+United States,Hollywood,Florida,33021
+United States,Deer Park,Texas,77536
+United States,Wichita,Kansas,67212
+United States,Mcallen,Texas,78501
+United States,Iowa City,Iowa,52240
+United States,Boise,Idaho,83704
+United States,Cranston,Rhode Island,2920
+United States,Freeport,Illinois,61032
+United States,Port Arthur,Texas,77642
+United States,Citrus Heights,California,95610
+United States,The Colony,Texas,75056
+United States,Redmond,Washington,98052
+United States,Daytona Beach,Florida,32114
+United States,Bullhead City,Arizona,86442
+United States,Portage,Indiana,46368
+United States,Fargo,North Dakota,58103
+United States,Elkhart,Indiana,46514
+United States,San Gabriel,California,91776
+United States,Margate,Florida,33063
+United States,Sandy Springs,Georgia,30328
+United States,Mentor,Ohio,44060
+United States,Lawton,Oklahoma,73505
+United States,Hampton,Virginia,23666
+United States,Rome,New York,13440
+United States,La Crosse,Wisconsin,54601
+United States,Lewiston,Idaho,83501
+United States,Hattiesburg,Mississippi,39401
+United States,Danville,California,94526
+United States,Mount Pleasant,Michigan,48858
+United States,Logan,Utah,84321
+United States,Waterbury,Connecticut,6708
+United States,Athens,Georgia,30605
+United States,Lewiston,Maine,4240
+United States,Danville,Illinois,61832
+United States,Avondale,Arizona,85323
+United States,Marietta,Georgia,30062
+United States,Yuma,Arizona,85364
+United States,Wausau,Wisconsin,54401
+United States,Pasco,Washington,99301
+United States,Oak Park,Illinois,60302
+United States,Pensacola,Florida,32503
+United States,League City,Texas,77573
+United States,Gaithersburg,Maryland,20877
+United States,Lehi,Utah,84043
+United States,Tuscaloosa,Alabama,35401
+United States,Moreno Valley,California,92553
+United States,Georgetown,Kentucky,40324
+United States,Loveland,Colorado,80538
+United States,Chandler,Arizona,85224
+United States,Helena,Montana,59601
+United States,Kirkwood,Missouri,63122
+United States,Waco,Texas,76706
+United States,Roseville,Michigan,48066
+United States,Frankfort,Illinois,60423
+United States,Bethlehem,Pennsylvania,18018
+United States,Roseville,Minnesota,55113
+United States,Grand Island,Nebraska,68801
+United States,Woodbury,Minnesota,55125
+United States,Oak Park,Michigan,48237
+United States,Rogers,Arkansas,72756
+United States,Clovis,New Mexico,88101
+United States,Jupiter,Florida,33458
+United States,Santa Barbara,California,93101
+United States,Cedar Hill,Texas,75104
+United States,Norfolk,Nebraska,68701
+United States,Draper,Utah,84020
+United States,Ann Arbor,Michigan,48104
+United States,La Mesa,California,91941
+United States,Pocatello,Idaho,83201
+United States,Holland,Michigan,49423
+United States,Milford,Connecticut,6460
+United States,Buffalo Grove,Illinois,60089
+United States,Lake Forest,California,92630
+United States,Redding,California,96003
+United States,Chico,California,95928
+United States,Utica,New York,13501
+United States,Conway,Arkansas,72032
+United States,Cheyenne,Wyoming,82001
+United States,Owensboro,Kentucky,42301
+United States,Caldwell,Idaho,83605
+United States,Kenner,Louisiana,70065
+United States,Nashua,New Hampshire,3060
+United States,Bartlett,Tennessee,38134
+United States,Redwood City,California,94061
+United States,Lebanon,Tennessee,37087
+United States,Santa Maria,California,93454
+United States,Des Plaines,Illinois,60016
+United States,Longview,Washington,98632
+United States,Hendersonville,Tennessee,37075
+United States,Waterloo,Iowa,50701
+United States,Cambridge,Massachusetts,2138
+United States,Palatine,Illinois,60067
+United States,Beverly,Massachusetts,1915
+United States,Eugene,Oregon,97405
+United States,Oxnard,California,93030
+United States,Renton,Washington,98059
+United States,Glenview,Illinois,60025
+United States,Delray Beach,Florida,33445
+United States,Commerce City,Colorado,80022
+United States,Texas City,Texas,77590
+United States,Wilson,North Carolina,27893
+United States,Rio Rancho,New Mexico,87124
+United States,Goldsboro,North Carolina,27534
+United States,Everett,Washington,98208
+United States,Montebello,California,90640
+United States,El Cajon,California,92020
+United States,Beaumont,Texas,77705
+United States,West Palm Beach,Florida,33407
+United States,Abilene,Texas,79605
+United States,Normal,Illinois,61761
+United States,Saint Charles,Missouri,63301
+United States,Saint Charles,Illinois,60174
+United States,Camarillo,California,93010
+United States,Hillsboro,Oregon,97123
+United States,Burbank,California,91505
+United States,Modesto,California,95351
+United States,Garden City,Kansas,67846
+United States,Atlantic City,New Jersey,8401
+United States,Longmont,Colorado,80501
+United States,Davis,California,95616
+United States,Wheeling,West Virginia,26003
+United States,Morgan Hill,California,95037
+United States,Clifton,New Jersey,7011
+United States,Sheboygan,Wisconsin,53081
+United States,East Point,Georgia,30344
+United States,Rapid City,South Dakota,57701
+United States,Andover,Massachusetts,1810
+United States,Kissimmee,Florida,34741
+United States,Shelton,Connecticut,6484
+United States,Danbury,Connecticut,6810
+United States,Marion,Iowa,52302
+United States,Sanford,Florida,32771
+United States,San Marcos,Texas,78666
+United States,Greeley,Colorado,80634
+United States,Mansfield,Texas,76063
+United States,Elyria,Ohio,44035
+United States,Twin Falls,Idaho,83301
+United States,Coral Gables,Florida,33134
+United States,Romeoville,Illinois,60441
+United States,Marlborough,Massachusetts,1752
+United States,Laurel,Maryland,20707
+United States,Bryan,Texas,77803
+United States,Pine Bluff,Arkansas,71603
+United States,Aberdeen,South Dakota,57401
+United States,Hagerstown,Maryland,21740
+United States,East Orange,New Jersey,7017
+United States,Arlington Heights,Illinois,60004
+United States,Oswego,Illinois,60543
+United States,Coon Rapids,Minnesota,55433
+United States,San Clemente,California,92672
+United States,Dublin,California,94568
+United States,San Luis Obispo,California,93405
+United States,Springdale,Arkansas,72762
+United States,Lodi,California,95240
+United States,La Porte,Texas,77571
+United States,Mason,Ohio,45040
+United States,Woodstock,Georgia,30188
